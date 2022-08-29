@@ -1,4 +1,4 @@
-# Leafihome backend programming test
+# backend programming test
 
 For this challenge we'll be recreating a pub / sub system using HTTP requests. **Feel free to use whatever langauges or frameworks you wish.**
 
