@@ -28,6 +28,6 @@ Running the project and attempt to publish an event:
 The above code would set up a subscription between topic1 and `http://localhost:8000/event`.
 When the event is published in line 3, it would send both the topic and body as JSON to `http://localhost:8000`
 
-The `/event` endpoint is just used to print the data and verify everything is working.
+The `/event` and `/another` endpoints are just for sanity check.
 
 ![alt text](/images/pubsub-diagram.png)
