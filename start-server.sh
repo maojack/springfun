@@ -1,0 +1,1 @@
+./mvnw spring-boot:run -Dfile.encoding=UTF-8
